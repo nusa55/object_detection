@@ -5,4 +5,4 @@ mplfinance
 Jinja2
 streamlit
 matplotlib
-torch
+PyTorch
