@@ -1,10 +1,5 @@
-ipython
-keras
 matplotlib
 numpy
-pandas
-requests
-scikit_learn=
 streamlit
 torch
 torchvision
