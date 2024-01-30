@@ -7,3 +7,4 @@ requests
 scikit_learn
 streamlit
 torch
+torchvision
